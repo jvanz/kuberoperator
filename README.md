@@ -1,0 +1,2 @@
+# kuberoperator
+Dummy Kubernetes operator
